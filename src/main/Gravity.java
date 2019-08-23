@@ -4,9 +4,6 @@
  * */
 package main;
 
-
-// uncomment the above line to use input in your program.
-
 import java.util.Scanner;
 
 public class Gravity {
